@@ -47,9 +47,6 @@ def main():
 
 
     return initial_conflicts,G,colors
-    # Perform experiments here, e.g., using a simple greedy coloring algorithm
-    # and count conflicts over time
-
 
 if __name__ == "__main__":
     conflicts=[]
